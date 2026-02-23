@@ -1,0 +1,19 @@
+# Maven
+target/
+*.class
+
+# Node.js
+node_modules/
+build/
+dist/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+
+# Java
+bin/
+*.log
